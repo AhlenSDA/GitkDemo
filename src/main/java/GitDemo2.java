@@ -7,4 +7,8 @@ public class GitDemo2 {
     public void localBranch() {
         System.out.println("My first commit");
     }
+
+    public void nextMethod() {
+
+    }
 }
